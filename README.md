@@ -1,1 +1,3 @@
-The first task on git
+The first git task
+
+text for second commit
